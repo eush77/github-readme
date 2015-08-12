@@ -35,6 +35,12 @@ Fetch README from GitHub.
 
 Fetches README from GitHub and returns it as a string. The filename is detected automatically.
 
+## Related
+
+- [github-man] — open README from GitHub repository as a man page.
+
+[github-man]: https://github.com/eush77/github-man
+
 ## Install
 
 ```
