@@ -2,10 +2,12 @@
 
 # github-readme
 
-[![Dependency Status][david-badge]][david]
+[![Build Status][travis-badge]][travis] [![Dependency Status][david-badge]][david]
 
 Fetch README from GitHub.
 
+[travis]: https://travis-ci.org/eush77/github-readme
+[travis-badge]: https://travis-ci.org/eush77/github-readme.svg
 [david]: https://david-dm.org/eush77/github-readme
 [david-badge]: https://david-dm.org/eush77/github-readme.png
 
