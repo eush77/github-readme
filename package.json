@@ -38,6 +38,7 @@
     "readme-filenames": "^1.0.0"
   },
   "devDependencies": {
+    "rewire": "^2.3.4",
     "tape": "^4.1.0"
   }
 }
